@@ -1,21 +1,21 @@
-# 📱 Simple QR Generator
+# Simple QR Generator
 
 > Modern, hızlı ve kullanımı kolay bir QR kod oluşturucu.
 
-🔗 **Canlı Demo:** [midvella.github.io/qrcode-generator](https://midvella.github.io/qrcode-generator)
+**Canlı Demo:** [midvella.github.io/qrcode-generator](https://midvella.github.io/qrcode-generator)
 
 ---
 
-## ✨ Özellikler
+## Özellikler
 
-- 🔤 Herhangi bir metin veya URL için anında QR kod oluşturma
-- 💾 Oluşturulan QR kodu PNG formatında indirme
-- ⚡ Hızlı ve hafif — sunucu gerektirmez
-- 🎨 Modern ve sade arayüz
+- Herhangi bir metin veya URL için anında QR kod oluşturma
+- Oluşturulan QR kodu PNG formatında indirme
+- Hızlı ve hafif — sunucu gerektirmez
+- Modern ve sade arayüz
 
 ---
 
-## 🚀 Kullanım
+## Kullanım
 
 1. [Demo sayfasını](https://midvella.github.io/qrcode-generator) ziyaret edin
 2. Metin veya URL girin
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Kurulum
+## Kurulum
 
 Projeyi yerel ortamınızda çalıştırmak için:
 
@@ -43,7 +43,7 @@ open index.html
 
 ---
 
-## 🧰 Teknolojiler
+## Teknolojiler
 
 | Teknoloji | Açıklama |
 |-----------|----------|
@@ -54,7 +54,7 @@ open index.html
 
 ---
 
-## 📂 Proje Yapısı
+## Proje Yapısı
 
 ```
 qrcode-generator/
@@ -65,7 +65,7 @@ qrcode-generator/
 
 ---
 
-## 📄 Lisans
+## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
