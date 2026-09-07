@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pro QR Generator | Modern & Hızlı</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container animate-fade-in">
+        <main class="card">
+            <h1>QR Oluşturucu</h1>
+            <p class="subtitle">Herhangi bir metin veya URL için anında profesyonel QR kodları oluşturun.</p>
+
+            <div class="input-group">
+                <input type="text" id="text" placeholder="URL veya metin giriniz..." autocomplete="off">
+            </div>
+
+            <button id="generate-btn">QR Kod Oluştur</button>
+
+            <div class="qr-result" id="qr-result">
+                <div class="qr-wrapper">
+                    <img src="" alt="QR Kodu" id="qrcode">
+                </div>
+                <button class="download-btn" id="download-btn">İndir (PNG)</button>
+            </div>
+        </main>
+    </div>
+
+    <!-- Custom JS -->
+    <script src="script.js"></script>
+</body>
+
+</html>
